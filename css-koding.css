@@ -1,0 +1,119 @@
+.navbar{
+border: 1px solid red;
+/* flex  berguna untuk sejajar horizontal*/
+display: flex;                 
+width: 100%;
+height: 60px;
+justify-content: space-between;
+}
+
+.register{
+    border: 1px solid yellow;
+    display: flex;
+}
+
+.home{
+    padding-left: 10px;
+    padding-right: 30px;
+}
+.a{
+    padding-left: 10px;
+    text-align: center;
+    margin: auto;
+    padding-right: 10px;
+}
+
+.baru{
+    display: flex;
+}
+
+
+img{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.col-4{
+    width: 25%;
+    padding: 20px;
+}
+.gambar-a{
+    width: 100%;
+}
+
+.tentang{
+    
+}
+.menu-utama{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width: 200px;
+
+    
+}
+.terbaru{
+display: flex;
+align-items: center;
+}
+
+.menu-utama input{
+    height: 50%;
+}
+
+
+
+.utama{
+
+width: 100%;
+height: 1000px;
+}
+
+
+.utama-a{
+    
+    width: 50%;
+}
+
+
+.subA-a{
+    
+}
+.subA-b{
+    
+}
+.subA-c{
+    
+}
+.subA-d{
+    
+}
+
+
+
+.utama-b{
+    
+    width: 50%;
+}
+
+
+.subB-a{
+    
+}
+.subB-b{
+    
+}
+.subB-c{
+    
+}
+.subB-d{
+    
+}
